@@ -1,4 +1,4 @@
-### Datenbanken
+# Datenbanken
 André Sommer am 14.09.2021
 
 ## Datenbanktypen
