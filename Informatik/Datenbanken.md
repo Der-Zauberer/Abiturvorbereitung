@@ -1,4 +1,4 @@
-# Datenbanken
+### Datenbanken
 André Sommer am 14.09.2021
 
 ## Datenbanktypen
@@ -50,9 +50,51 @@ Wird hier nicht aufgeführt!
 
 ## SQL
 
+Die Reihenfolge bei SQL-Abfragen ist immer `SELECT` `FROM` `WHERE` `GROUP BY` `HAVING` `ORDER BY`. Hier ein Beispiel für eine SQL Abfrage:
+
+```sql
 SELECT P.Name, P.Datum, L.Name, avg(N.Note) AS Notendurchschnitt
 FROM Person P, Noten N, Lehrer L
 WHERE P.Lehrer = L.ID
 GROUP BY P.Name, P.Datum, L.Name
 HAVING avg(N.Note) > 3
-ORDER BY avg(N.Note)
+ORDER BY avg(N.Note) ASC
+```
+
+### SELECT
+
+Select wählt die Spalten aus, bei funktionen ist es oft Notwendig einen Namen zu hinterlegen. Dies geschied mit dem Schlüsselwort `AS`, dahinter kommt der Name. Sollte dieser Lehgrzeichen und Sonderzeichen enthalten ist der Name mit eckigen Klammern einzuschließen: `avg(N.Note) AS [Der Notendurchschnitt]`. Es gibt verschiedene Aggregatfunktionen:
+
+|`avg()`|Durchschnitt|
+|`sum()`|Summe|
+|`count()`|Menge|
+|`min()`|Minimaler Wert|
+|`max()`|Maximaler Wert|
+
+### FROM
+
+From gibt an welche Tabellen benötigt werden. Diese können für Spaltenaufrufe mit einem Buchstaben abgekürzt werden.
+
+### WHERE
+
+Where kann eine Verbindung (Join) zwischen Tabellen herstellen und weitere Bedingungen festlegen, die nicht von Aggregatfunktionen abhängig sind. Eine Verbindung erfolgt zuwischen dem Primärschlüssel der einen Tabelle und dem Fremdschlüssel der anderen Tabelle: `WHERE A.Primärschlüssel = B.Fremdschlüssel`.
+
+|Schlüsselbefehle||
+|---|---|
+|=|Vergleichsoperator|
+|LIKE|Vergleich für Strings|
+|BETWEEN|Daten innerhalb eines Wertebereiches|
+|AND|Und|
+|OR|Oder|
+
+### WHERE und Strings
+
+### WHERE und Daten
+
+### GROUP BY
+
+### HAVING
+
+### ORDER BY
+
+Die Entitäten der Abfrage werden nach dem Atribut aufsteigend sortiert. Dies kann mit den Befehlen `DESC` absteigend und `ASC`aufsteigend konkretisiert werden.
