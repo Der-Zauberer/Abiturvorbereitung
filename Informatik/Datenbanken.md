@@ -66,6 +66,7 @@ ORDER BY avg(N.Note) ASC
 Select wählt die Spalten aus, bei funktionen ist es oft Notwendig einen Namen zu hinterlegen. Dies geschied mit dem Schlüsselwort `AS`, dahinter kommt der Name. Sollte dieser Lehgrzeichen und Sonderzeichen enthalten ist der Name mit eckigen Klammern einzuschließen: `avg(N.Note) AS [Der Notendurchschnitt]`. Es gibt verschiedene Aggregatfunktionen:
 
 |Schlüsselbefehle||
+|---|---|
 |`avg()`|Durchschnitt|
 |`sum()`|Summe|
 |`count()`|Menge|
