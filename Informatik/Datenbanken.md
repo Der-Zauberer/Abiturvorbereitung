@@ -83,11 +83,11 @@ Where kann eine Verbindung (Join) zwischen Tabellen herstellen und weitere Bedin
 
 |Schlüsselbefehle||
 |---|---|
-|=|Vergleichsoperator|
-|LIKE|Vergleich für Strings|
-|BETWEEN|Daten innerhalb eines Wertebereiches|
-|AND|Und|
-|OR|Oder|
+|`=`|Vergleichsoperator|
+|`LIKE`|Vergleich für Strings|
+|`BETWEEN`|Daten innerhalb eines Wertebereiches|
+|`AND`|Und|
+|`OR`|Oder|
 
 ### WHERE und Strings
 
