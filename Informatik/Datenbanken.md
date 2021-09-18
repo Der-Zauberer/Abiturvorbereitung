@@ -83,20 +83,29 @@ Where kann eine Verbindung (Join) zwischen Tabellen herstellen und weitere Bedin
 
 |Schlüsselbefehle||
 |---|---|
-|`=`|Vergleichsoperator|
+|`=` `<` `>` `<=` `>=`|Vergleichsoperator|
 |`LIKE`|Vergleich für Strings|
 |`BETWEEN`|Daten innerhalb eines Wertebereiches|
 |`AND`|Und|
 |`OR`|Oder|
+|`NOT`|Nicht|
 
 ### WHERE und Strings
 
+Mit dem Schlüsselwort `LIKE` können Strings eingegrenzt werden. Dabei steht jeh nach SQL Dialekt `*` und `%` für beliebig viele Buchstaben und `?` für einzelne Buchstaben. Mit `WHERE text LIKE '%in%'` werden alle Texte ausgegeben, die das wort "in" enthalten. Mit den Befehl `WHERE vorname LIKE 'Ni?o` werden alle Vornamen ausgegeben die einen einzelnen belibeigen Buchstaben zwichen "i" und "o" entgalten. Damit währe sowohl das Ergebnis "Nico" als auch "Niko" möglich.
+
 ### WHERE und Daten
+
+Daten können in der amerikanischen Schreibweise eingegrenzt werden mit der Formatierung YYYY/MM//DD. Möglich währe ein Datenbereich zu definieren mit `WHERE Datum BETWEEN 20200101 AND 20201231`. Mit den Funktiotionen `YEAR()` `MONTH()` und `DAY()` kann dies auch umgesetzt werden. Ein Beispiel währe `WHERE YEAR(Datum) = 2020`.
 
 ### GROUP BY
 
+Sollte Having verwendet werden müssen alle Atribute die keine Aggregatfunktionen sind grupiert werden.
+
 ### HAVING
+
+Sollte eine Aggregatfunktionen verwendet werden und diese im Nachhinein gefilter werden müssen, beispielsweise nur Ergebnisse die größer sind als eine Konstatne, kann diese Bedingung hinter Having definiert werden.
 
 ### ORDER BY
 
-Die Entitäten der Abfrage werden nach dem Atribut aufsteigend sortiert. Dies kann mit den Befehlen `DESC` absteigend und `ASC`aufsteigend konkretisiert werden.
+Die Entitäten der Abfrage werden nach dem Atribut aufsteigend sortiert. Dies kann mit den Befehlen `DESC` absteigend und `ASC` aufsteigend konkretisiert werden.
