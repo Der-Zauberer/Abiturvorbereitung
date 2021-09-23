@@ -7,9 +7,8 @@ von André Sommer am 23.09.2021
 - Einordnung der Szene in den Gesammtzusammenhang
 
 ## Einleitung: 
-- Textgattung, Autor, Erscheinungsjahr, Titel
+- Textgattung, Autor, Erscheinungsjahr, Titel, Epoche
 - Deutungshypothese (Bezug auf das gesamte Wert)
-- Epoche  
 
 ## Gelenkstelle
 - Einordnung der Szene in den  Gesamtzusammenhang  
@@ -24,9 +23,11 @@ Wichtig für die Interpretation der Szene:
 - Figuren
 - Vorgeschichte
 - Folgen für weitere Handlungen
+- Epoche
 
 ## Werkvergleich: 
 - Deutungshypothese 
 - Vergleich der Werke basierend auf der Aufgabenstellung und der Deutungshypothese  
 
-## Schluss  
+## Schluss
+Hier gibt es keine direkten vorgaben möglich währe zum Beispiel eine Problematisierung oder eine eigene Stellungname
