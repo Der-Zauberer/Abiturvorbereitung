@@ -9,7 +9,7 @@ Die Siegermächte teilen Deutschland in vier Besatzungszonen und Berlin in vier 
 ### 1947 - 1948
 Es entwickeln sich Gegensätze zwischen der Sowjetunion und den Westmächten.
 
-### 24.Juni 1948 - 12. Mai 1949
+### 24. Juni 1948 - 12. Mai 1949
 Als Antwort auf die Währungsunion verhängt die Sowjetunion eine Blockade über die Westsektoren von Berlin, daraufhin organisieren die Vereinigten Staaten eine Luftbrücke um ihre Bevölkerung versorgen zu können.
 
 ### 7. Oktober 1949
