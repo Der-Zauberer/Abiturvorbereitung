@@ -6,14 +6,14 @@ von André Sommer am 23.09.2021
 - Sinnesabschnitte
 - Einordnung der Szene in den Gesammtzusammenhang
 
-## Einleitung: 
+## Einleitung
 - Textgattung, Autor, Erscheinungsjahr, Titel, Epoche
 - Deutungshypothese (Bezug auf das gesamte Wert)
 
 ## Gelenkstelle
 - Einordnung der Szene in den  Gesamtzusammenhang  
 
-## Hauptteil: 
+## Hauptteil
 - Deutungshypothese (Bezug auf die Szene) 
 - Interpretation der Szene  
 
@@ -25,7 +25,7 @@ Wichtig für die Interpretation der Szene:
 - Folgen für weitere Handlungen
 - Epoche
 
-## Werkvergleich: 
+## Werkvergleich
 - Deutungshypothese 
 - Vergleich der Werke basierend auf der Aufgabenstellung und der Deutungshypothese  
 
