@@ -9,7 +9,7 @@ Hindenburg beruft Hitler zum Reichskanzler eines konservativen Kabinetts, in dem
 ### 28. Februar 1933
 Nationalsozialisten verhängen nach Reichstagsbrand Verordnung zum Schutz von Volk und Staat.
 
-### 5. März 1933
+### 05. März 1933
 Die letzte freie Wahlen finden statt, die NSDAP erreicht 44%.
 
 ### 23. März 1933
@@ -27,7 +27,7 @@ Mit dem Rähmpusch lässt Hitler die SA-Fürhung ermorden und ersetzt diese durc
 ### 29. September 1938
 Mit dem Münchener Abkommen bestätigt Hitler keine teritorialen Ansprüche mehr in Europa mehr zu haben, bis auf die Befreiung der Sudetendeutschen in der Tschechoslowakei. Dies wurde im von Großbritanien, Frankreich und Italien zugestanden um weitere Auseinandersetzungen zu vermeiden.
 
-### 9. November 1938
+### 09. November 1938
 In der Reichsprogomnacht werden jüdische Geschäfte zerstört und geplündert und Synagogen Abgebrannt. Dies wurde von den Nationalsozialisten Organisiert. Zunächst wurde dies auch Reichskristallnacht genannt.
 
 ### 15. März 1939
@@ -60,5 +60,5 @@ Die Amerikanischen Truppen landen in der Normandie.
 ### 16. April 1945 - 02. Mai 1945
 Die Schlacht um Berlin findet statt, Hitler erklärt Berlin zur Festung um jeden Bürger zum Kampf zu bewegen.
 
-### 07.05.1945
+### 07. Mai 1945
 Deutschland kapituliert, nachdem Hitler Selbstmord begeht.
