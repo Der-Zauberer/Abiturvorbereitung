@@ -1,7 +1,7 @@
 # Textgebundene Erörterung
 von André Sommer am 23.02.2021
 
-## Einleitung:
+## Einleitung
 
 - Titel und Autor und zentrale These des Autors
 - Allgemeines Beispiel
@@ -36,7 +36,7 @@ Wichtig ist die Wirkung der Sprache auf den Leser und die Untersuchung der Argum
 - Ehrlichkeit
 - Manipulation
 
-## Hauptteil Erörterung:
+## Hauptteil Erörterung
 - Wiederholung des Textes mit eigener Meinung
 - Begründend einer Zustimmung oder eines Wiederspruches
 - Erweiterung der Argumentation
@@ -44,14 +44,14 @@ Wichtig ist die Wirkung der Sprache auf den Leser und die Untersuchung der Argum
 
 Entweder erst Textkritik, dann eigener Standpunkt oder Wechsel zwischen Textkritik und eigener Position
 
-## Schluss:
+## Schluss
 - Persönliche Wertung
 - Kritischer Ausblick mit Problemstellung
 - Lösungsvorschlag
 - Rahmenbildung durch eine Wiederholung aus der Einleitung
 
 
-## Häufige Fehler:
+## Häufige Fehler
 - Nacherzählung des Textes
 - keine Trennung zwischen Text und eigener Position
 - Leitbegriffe nicht erläutert
