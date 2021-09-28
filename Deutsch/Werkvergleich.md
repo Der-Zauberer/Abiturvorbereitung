@@ -26,6 +26,12 @@ Wichtig für die Interpretation der Szene:
 - Folgen für weitere Handlungen
 - Epoche
 
+Wichtig für die Figuren:
+- Handeln
+- Beziehungen zu anderen Pesonen
+- Interressen
+- Absichten
+
 ## Werkvergleich
 - Deutungshypothese 
 - Vergleich der Werke basierend auf der Aufgabenstellung und der Deutungshypothese  
