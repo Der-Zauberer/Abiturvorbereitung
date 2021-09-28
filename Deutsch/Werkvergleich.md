@@ -20,8 +20,9 @@ von André Sommer am 23.09.2021
 Wichtig für die Interpretation der Szene:
 - Deutungshypothese
 - Erzähler
-- Ort und Zeit
+- Sprache
 - Figuren
+- Ort und Zeit
 - Vorgeschichte
 - Folgen für weitere Handlungen
 - Epoche
