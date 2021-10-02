@@ -1,6 +1,53 @@
 # Der Nationalsozialismus
 von André Sommer am 25.09.2021
 
+## Idiologie
+
+### Führerprinzip
+- zentrale Führung des Kanzlers in allen politischen Bereichen
+- Führerkult
+- verwandlung der Demokratie in eine totalitäre Diktatur
+
+### Verherlichung des Kampfes
+- Kriege für das Deutsche Reich positiv
+- stärkung der Feindbilder
+- vom Volk tollerierte und unterstützte Angriffe auf andere Länder
+
+### Rassenlehre
+- die Einteilung der Völker in Rassen (Ethnopluralismus)
+- Lehre in Schulen
+- systematische Ausgrenzung vonm "Rassen"
+- begründungsmöglichkeit für Kriege und Anfeindungen
+
+### Antisemitismus
+- Schuldunterställung
+- systematische Ausgrenzung aus dem Alltag
+- stärkung von Feindbildern in der Bevölkerung
+
+### Antikommunismus
+- eindämmung komonistischen Gedankengutes
+- niederschlagung von Aufständen
+- stärkung von Feindbildern in der Bevölkerung
+
+### Nationalsozialismus
+- stärkung des nationalen Zusammenhaltes und Nationalsstolzes
+- lehre in Schulen
+- stärken von Feindbildern gegenüber anderen Völkern
+- begründung für Angriffskriege
+- stärkung von Volk und Heer
+
+### Leben im Osten
+- zurückgewinnung von Land, welches durch Krieg verlohren wurde
+- propaganda wegen verlohrenem Eigentum
+- stärkung von Feindbildern
+- Begründung eines Angriffskrieges gegen Polen und der Tschechoslowakei
+
+### Revision des Versailler Vertrages
+- Abwendung der entscheidenen Maßnahmen des Vertrages
+- systematisches Brechen der Teile des VBertrages
+- Aufbauen einer starken Wirtschaft und Armee
+- Deutschland nicht Schuld am Krieg
+
 ## Daten
 
 ### 30. Januar 1933
@@ -19,7 +66,7 @@ Ermächtigungsgesetz
 Die Nationalsozialisten verbieten die SPD.
 
 ### 30. Juni 1934
-Mit dem Rähmpusch lässt Hitler die SA-Fürhung ermorden und ersetzt diese durch die SS, er hatte Angst vor den Machbestrebungen des SA-Führers Röhm.
+Mit dem Röhmpusch lässt Hitler die SA-Fürhung ermorden und ersetzt diese durch die SS, er hatte Angst vor den Machbestrebungen des SA-Führers Röhm.
 
 ### 13. März 1938
 Österreich wird dem Deutschen Reich angeschlossen
