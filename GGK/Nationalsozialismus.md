@@ -10,36 +10,36 @@ von André Sommer am 25.09.2021
 
 ### Verherlichung des Kampfes
 - Kriege für das Deutsche Reich positiv
-- stärkung der Feindbilder
+- Stärkung der Feindbilder
 - vom Volk tollerierte und unterstützte Angriffe auf andere Länder
 
 ### Rassenlehre
 - die Einteilung der Völker in Rassen (Ethnopluralismus)
 - Lehre in Schulen
 - systematische Ausgrenzung vonm "Rassen"
-- begründungsmöglichkeit für Kriege und Anfeindungen
+- Begründungsmöglichkeit für Kriege und Anfeindungen
 
 ### Antisemitismus
 - Schuldunterställung
 - systematische Ausgrenzung aus dem Alltag
-- stärkung von Feindbildern in der Bevölkerung
+- Stärkung von Feindbildern in der Bevölkerung
 
 ### Antikommunismus
-- eindämmung komonistischen Gedankengutes
-- niederschlagung von Aufständen
+- Eindämmung komonistischen Gedankengutes
+- Niederschlagung von Aufständen
 - stärkung von Feindbildern in der Bevölkerung
 
 ### Nationalsozialismus
-- stärkung des nationalen Zusammenhaltes und Nationalsstolzes
-- lehre in Schulen
-- stärken von Feindbildern gegenüber anderen Völkern
-- begründung für Angriffskriege
-- stärkung von Volk und Heer
+- Stärkung des nationalen Zusammenhaltes und Nationalsstolzes
+- Lehre in Schulen
+- Stärken von Feindbildern gegenüber anderen Völkern
+- Begründung für Angriffskriege
+- Stärkung von Volk und Heer
 
 ### Leben im Osten
-- zurückgewinnung von Land, welches durch Krieg verlohren wurde
-- propaganda wegen verlohrenem Eigentum
-- stärkung von Feindbildern
+- Zurückgewinnung von Land, welches durch Krieg verlohren wurde
+- Propaganda wegen verlohrenem Eigentum
+- Stärkung von Feindbildern
 - Begründung eines Angriffskrieges gegen Polen und der Tschechoslowakei
 
 ### Revision des Versailler Vertrages
