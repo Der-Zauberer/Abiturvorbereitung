@@ -1,5 +1,4 @@
 # Essay
-
 von Andé Sommer am 23.11.2021
 
 ## Eigenschaften

@@ -1,5 +1,4 @@
 # Stilmittel
-
 von André Sommer am 23.09.2021
 
 ### Alliteration
