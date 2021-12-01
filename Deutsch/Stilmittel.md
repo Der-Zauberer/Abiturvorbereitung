@@ -2,18 +2,18 @@
 von André Sommer am 23.09.2021
 
 ### Alliteration
-Besteht aus mindestens zwei aufeinanderfolgenden Worten, die den gleichen anfang haben. **Wichtig hierbei ist es geht hierbei nach Klang** so ist z.B. "kleiner Clown" ebenfalls eine Alliteration.
+Besteht aus mindestens zwei aufeinanderfolgenden Worten, die den gleichen Anfang haben. **Wichtig hierbei ist es geht hierbei nach Klang** so ist z.B. "kleiner Clown" ebenfalls eine Alliteration.
 
 ### Anapher
-Bei der Anapher wiederholen sich die Worte an zwei aufeinanderfolgenden Sätze bzw Veranfänge.<br>
-*Ich liebe es, früh aufzustehen. Ich liebe es in die Schule zu gehn.*
+Bei der Anapher wiederholen sich die Worte an zwei aufeinanderfolgenden Sätze bzw Versanfänge.<br>
+*Ich liebe es, früh aufzustehen. Ich liebe es in die Schule zu gehen.*
 
 ### Ellipse
 Auslassung eines Satzteils oder einer Wortes.<br>
 *Er rannte nach draußen.*
 
 ### Euphemismus
-Der Euphemismus ist eine Beschönigung, druch die etwas Unangenehmes umschrieben wir.<br>
+Der Euphemismus ist eine Beschönigung, durch die etwas Unangenehmes umschrieben wir.<br>
 *Deine Chemie-Klausur hast du nicht komplett vergeigt.*
 
 ### Hyperbel
@@ -25,11 +25,11 @@ Offensichtlich unwahre Behauptung, mit der das Gegenteil ausgedrückt wird.<br>
 *Auf diese Klassenarbeit haben sie sicher zwei Wochen geübt.*
 
 ### Metapher
-Die Metapher verknüpft zwei bereiche, die wir sonst nicht unbedingt miteinander verbinden. Wichitg: Die Begriffe müssen gleichgesetzt werden.<br>
+Die Metapher verknüpft zwei Bereiche, die wir sonst nicht unbedingt miteinander verbinden. Wichtig: Die Begriffe müssen gleichgesetzt werden.<br>
 *Heute konnte ich locker dem Klassenbesten das Wasser reichen!*
 
 ### Rhetorische Frage
-Die rhetorische Frage ise eher eine Scheinfrage, denn jeder kennt die Antwort darauf.<br>
+Die rhetorische Frage ist eher eine Scheinfrage, denn jeder kennt die Antwort darauf.<br>
 *Wer will schon sitzenbleiben und eine Klasse wiederholen?*
 
 ### Vergleich

@@ -22,7 +22,7 @@ Die “Arbeiter und Bauern” protestieren gegen die DDR aufgrund von Anhebung d
 Die DDR gründet die Nationale Volksarmee (NVA) um sich gegen den “Klassenfeind” BRD zu schützen und die Macht der SED zu sichern.
 
 ### 13. August 1961
-Aufgrund der sinkenden Bevölkerungszahlen und der damit verbundenen verschlechterung der Wirtschaftlichen Lage wird die Berliner Mauer gebaut.
+Aufgrund der sinkenden Bevölkerungszahlen und der damit verbundenen Verschlechterung der Wirtschaftlichen Lage wird die Berliner Mauer gebaut.
 
 ### 27. Oktober 1961
 Die Grenzer der DDR Weigern sich den US-Diplomaten einreisen zu lassen, daraufhin fahren US-Panzer zum Checkpoint Charlie um gewaltsam auf ihr Recht zu bestehen. Als sie abziehen  wollen schickt die Sowjetunion ebenfalls Panzer zur Grenze.

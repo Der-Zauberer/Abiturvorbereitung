@@ -1,50 +1,50 @@
 # Der Nationalsozialismus
 von André Sommer am 25.09.2021
 
-## Idiologie
+## Ideologie
 
 ### Führerprinzip
 - zentrale Führung des Kanzlers in allen politischen Bereichen
 - Führerkult
-- verwandlung der Demokratie in eine totalitäre Diktatur
+- Verwandlung der Demokratie in eine totalitäre Diktatur
 
-### Verherlichung des Kampfes
+### Verherrlichung des Kampfes
 - Kriege für das Deutsche Reich positiv
 - Stärkung der Feindbilder
-- vom Volk tollerierte und unterstützte Angriffe auf andere Länder
+- vom Volk tolerierte und unterstützte Angriffe auf andere Länder
 
 ### Rassenlehre
 - die Einteilung der Völker in Rassen (Ethnopluralismus)
 - Lehre in Schulen
-- systematische Ausgrenzung vonm "Rassen"
+- systematische Ausgrenzung von "Rassen"
 - Begründungsmöglichkeit für Kriege und Anfeindungen
 
 ### Antisemitismus
-- Schuldunterställung
+- Schuldunterstellung
 - systematische Ausgrenzung aus dem Alltag
 - Stärkung von Feindbildern in der Bevölkerung
 
 ### Antikommunismus
-- Eindämmung komonistischen Gedankengutes
+- Eindämmung kommunistischen Gedankengutes
 - Niederschlagung von Aufständen
-- stärkung von Feindbildern in der Bevölkerung
+- Stärkung von Feindbildern in der Bevölkerung
 
 ### Nationalsozialismus
-- Stärkung des nationalen Zusammenhaltes und Nationalsstolzes
+- Stärkung des nationalen Zusammenhaltes und Nationalstolzes
 - Lehre in Schulen
 - Stärken von Feindbildern gegenüber anderen Völkern
 - Begründung für Angriffskriege
 - Stärkung von Volk und Heer
 
 ### Leben im Osten
-- Zurückgewinnung von Land, welches durch Krieg verlohren wurde
-- Propaganda wegen verlohrenem Eigentum
+- Zurückgewinnung von Land, welches durch Krieg verloren wurde
+- Propaganda wegen verlorenem Eigentum
 - Stärkung von Feindbildern
 - Begründung eines Angriffskrieges gegen Polen und der Tschechoslowakei
 
 ### Revision des Versailler Vertrages
-- Abwendung der entscheidenen Maßnahmen des Vertrages
-- systematisches Brechen der Teile des VBertrages
+- Abwendung der entscheidenden Maßnahmen des Vertrages
+- systematisches Brechen der Teile des Vertrages
 - Aufbauen einer starken Wirtschaft und Armee
 - Deutschland nicht Schuld am Krieg
 
@@ -60,28 +60,28 @@ Nationalsozialisten verhängen nach Reichstagsbrand Verordnung zum Schutz von Vo
 Die letzte freie Wahlen finden statt, die NSDAP erreicht 44%.
 
 ### 23. März 1933
-Ermächtigungsgesetz
+Das Ermächtigungsgesetz wird verabschiedet.
 
 ### 22. Juni 1933
 Die Nationalsozialisten verbieten die SPD.
 
 ### 30. Juni 1934
-Mit dem Röhmpusch lässt Hitler die SA-Fürhung ermorden und ersetzt diese durch die SS, er hatte Angst vor den Machbestrebungen des SA-Führers Röhm.
+Mit dem Röhmputsch lässt Hitler die SA-Führung ermorden und ersetzt diese durch die SS, er hatte Angst vor den Machtbestrebungen des SA-Führers Röhm.
 
 ### 13. März 1938
-Österreich wird dem Deutschen Reich angeschlossen
+Österreich wird dem Deutschen Reich angeschlossen.
 
 ### 29. September 1938
-Mit dem Münchener Abkommen bestätigt Hitler keine teritorialen Ansprüche mehr in Europa mehr zu haben, bis auf die Befreiung der Sudetendeutschen in der Tschechoslowakei. Dies wurde im von Großbritanien, Frankreich und Italien zugestanden um weitere Auseinandersetzungen zu vermeiden.
+Mit dem Münchener Abkommen bestätigt Hitler keine territorialen Ansprüche mehr in Europa mehr zu haben, bis auf die Befreiung der Sudetendeutschen in der Tschechoslowakei. Dies wurde ihm von Großbritannien, Frankreich und Italien zugestanden um weitere Auseinandersetzungen zu vermeiden.
 
 ### 09. November 1938
-In der Reichsprogomnacht werden jüdische Geschäfte zerstört und geplündert und Synagogen Abgebrannt. Dies wurde von den Nationalsozialisten Organisiert. Zunächst wurde dies auch Reichskristallnacht genannt.
+In der Reichspogromnacht werden jüdische Geschäfte zerstört und geplündert und Synagogen Abgebrannt. Dies wurde von den Nationalsozialisten Organisiert. Zunächst wurde dies auch Reichskristallnacht genannt.
 
 ### 15. März 1939
 Hitler nimmt die Tschechoslowakei ein, nachdem sich die Tschechoslowakei ein Tag vorher als unabhängig erklärt und Hitler die Bombardierung androht.
 
 ### 24. August 1939
-Hitler und Stalin vereinbahren einen Nichtangriffspackt, den sogenannten Hitler-Stalin-Packt.
+Hitler und Stalin vereinbaren einen Nichtangriffspackt, den sogenannten Hitler-Stalin-Packt.
 
 ### 01. September 1939
 Hitler beginnt den Überfall auf Polen.
@@ -93,7 +93,7 @@ Hitler führt als Blitzkrieg den Frankreichfeldzug.
 Mit dem Dreimächtepackt verbünden sich Italien, das Deutsche Reich und Japan. Sie sichern sich gegenseitige Unterstützung zu.
 
 ### 22. Juni 1941
-Hitler beginnt den Angriff gegen die Sowjetunion, von der Sowjetunion wird dies später "Goßer Vaterländischer Krieg" bezeichnet.
+Hitler beginnt den Angriff gegen die Sowjetunion, von der Sowjetunion wird dies später "Großer Vaterländischer Krieg" bezeichnet.
 
 ### 11. Februar 1941
 Nach dem Übergriffen der Japaner auf Pearl Harbor erklären die Vereinigten Staaten Japan den Krieg, daraufhin erklärt wiederum Hitler den Vereinigten Staaten den Krieg

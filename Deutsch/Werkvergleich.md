@@ -29,8 +29,8 @@ Wichtig für die Interpretation der Szene:
 
 Wichtig für die Figuren:
 - Handeln
-- Beziehungen zu anderen Pesonen
-- Interressen
+- Beziehungen zu anderen Personen
+- Interessen
 - Absichten
 
 ## Werkvergleich
@@ -38,4 +38,4 @@ Wichtig für die Figuren:
 - Vergleich der Werke basierend auf der Aufgabenstellung und der Deutungshypothese  
 
 ## Schluss
-Hier gibt es keine direkten vorgaben möglich währe zum Beispiel eine Problematisierung oder eine eigene Stellungname
+Hier gibt es keine direkten vorgaben möglich wäre zum Beispiel eine Problematisierung oder eine eigene Stellungnahme
