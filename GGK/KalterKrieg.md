@@ -1,7 +1,7 @@
 # Der Kalte Krieg
 von André Sommer am 27.12.2021
 
-## Anti-Hiler-Koalition
+## Anti-Hitler-Koalition
 Die „Anti-Hitler-Koalition“ schloss sich aufgrund des gemeinsamen Planes Deutschland zu besiegen zusammen. Nach dem Krieg entstand der Plan seitens der USA die Welt zusammen mit der Sowjetunion zu regieren um künftig nationalsozialistische Regime zu vermeiden. Es entwickelten sich jedoch schnell Gegensätze zwischen den Großmächten, daher musste dieser Plan verworfen werden.
 
 ## Beginn der Konflikte zwischen den Supermächten
