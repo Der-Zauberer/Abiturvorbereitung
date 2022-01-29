@@ -4,7 +4,7 @@ von André Sommer am 01.12.2021
 ## Geschichte
 
 ### 1949 Europarat und Europäischer Gerichtshof für Menschenrechte
-Der Europarat Wurde zur europäischen Friedenssicherung nach dem zweiten Weltkrieg gegründet, die wichtigste Institution war der europäische Gerichtshof für Menschenrechte.
+Der Europarat wurde zur europäischen Friedenssicherung nach dem zweiten Weltkrieg gegründet, die wichtigste Institution war der europäische Gerichtshof für Menschenrechte.
 
 ### 1951 Montanunion (EGKS)
 Die Montanunion (EGKS) wurde zur Verbesserung der Beziehungen zwischen Frankreich und Deutschland gegründet und war ein Wirtschaftsabkommen für Stahl und Kohle, sowie eine gegenseitige Kontrollbehörde für Rüstungsgüter. Beteiligt waren daran
