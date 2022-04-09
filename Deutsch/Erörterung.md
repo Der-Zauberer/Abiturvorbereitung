@@ -59,3 +59,10 @@ Entweder erst Textkritik, dann eigener Standpunkt oder Wechsel zwischen Textkrit
 - mangelnde Verknüpfungen der Themengebiete
 - unnötige Wiederholung
 - unangemessener Stil
+
+## Arten von Argumenten
+- Faktenargument
+- Werteargument
+- Autoritätsargument
+- Analogisierendes Argument
+- Anekdotenargument
