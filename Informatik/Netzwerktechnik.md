@@ -57,8 +57,8 @@ Please Do Not Throw Salami Pizza Away
 |Application Layer|Anwendungsschicht|FTP, HTTP, HTTPS, SNMP, SSH, TELNET|Firewall, Anwendung|
 |Presentation Layer|Darstellungsschicht|||
 |Session Layer|Sitzungsschicht|||
-|Transport Layer|Vermittlungsschicht|TCP, UDP|Firewall|
-|Network Layer|Netzwerkschicht|IP|Router, Firewall|
+|Transport Layer|Transportschicht|TCP, UDP|Firewall|
+|Network Layer|Vermittlungsschicht|IP|Router, Firewall|
 |Data Link Layer|Sicherungsschicht|MAC-Adresse|Switch, Netzwerkkarte, Firewall|
 |Physical Layer|Bitübertragungsschicht|Mediumsabhängige Kommunikation|Hub, Repeater|
 
